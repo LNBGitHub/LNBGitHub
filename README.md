@@ -22,6 +22,7 @@ Technical skills:
 - Project management: Atlassian (Confluence, JIRA).
 
 ## Currently busy with: 
-- 🔭 Working on building a text summarisation and sentiment analysis prototype for maritime situational awareness.
-- 🌱 Open to full-time opportunities in analytics and data science in Australia or New Zealand. Feel free to reach out to me.
+- 🔭 Building a text summarisation and sentiment analysis prototype using language models for maritime situational awareness.
 - ⚡ Fun fact: training for Ironman triathlon.
+
+## 🌱 Open to full-time opportunities in analytics and data science in Australia or New Zealand. Feel free to reach out to me via LinkedIn or email Lnbsocialbox@gmail.com
