@@ -6,7 +6,7 @@ I am motivated and T-shaped professional with expertise in leading advanced anal
 
 As a seasoned professional, I have worked across a range of analytics projects in financial services (banking, credit services, insurance, FinTech), consumer goods, and public sector. I have leveraged data, and enabled teams and clients to deliver value to their customers and business. 
 
-I have dual master's degrees in computer science and data science from premier institutions (alumnus of Manipal University | Uni. of Auckland | Uni. of Otago). Additionally, I am a mentor at Data Science for Social Good institute. 
+I hold dual master's degrees in computer science and data science from premier institutions (alumnus of Manipal University | Uni. of Auckland | Uni. of Otago). Additionally, I am a mentor at Data Science for Social Good institute. 
 
 ## Skills: 
 
