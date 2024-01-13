@@ -2,9 +2,11 @@
 
 ## About-me
 
-I am motivated and T-shaped professional with expertise in leading advanced analytics and data science (AI/ML) capabilities to deliver business outcomes. My principal goal is to help my teams and clients gain clarity and growth through data-driven insights, data products and solutions.
+I am motivated and T-shaped professional with expertise in leading advanced analytics and data science (AI/ML) capabilities to deliver business outcomes. My principal goal is to help my teams and clients gain growth through data-driven insights, data products and solutions.
 
-As a seasoned professional, I have worked across a range of analytics projects in financial services (banking, credit services, insurance, FinTech), consumer goods, and public sector. I have leveraged data, and enabled teams and clients to deliver value to their customers and business. I have dual master's degrees in computer science and data science from premier institutions. Additionally, I am a mentor at Data Science for Social Good institute. 
+As a seasoned professional, I have worked across a range of analytics projects in financial services (banking, credit services, insurance, FinTech), consumer goods, and public sector. I have leveraged data, and enabled teams and clients to deliver value to their customers and business. 
+
+I have dual master's degrees in computer science and data science from premier institutions (alumnus of Manipal University | Uni. of Auckland | Uni. of Otago). Additionally, I am a mentor at Data Science for Social Good institute. 
 
 ## Skills: 
 
@@ -25,4 +27,4 @@ Technical skills:
 - 🔭 Building a text summarisation and sentiment analysis prototype using language models for maritime situational awareness.
 - ⚡ Fun fact: training for Ironman triathlon.
 
-### 🌱 Open to full-time opportunities in analytics and data science in Australia or New Zealand. Feel free to reach out to me via <a href="https://www.linkedin.com/in/lnbpublicprofile/">LinkedIn</a> or <a href="Lnbsocialbox@gmail.com">E-mail</a>.
+### 🌱 Open to full-time opportunities in analytics and data science in Australia or New Zealand. Feel free to reach out to me via <a href="https://www.linkedin.com/in/lnbpublicprofile/">LinkedIn</a> or E-mail.
