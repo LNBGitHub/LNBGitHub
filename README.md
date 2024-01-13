@@ -16,7 +16,7 @@ Domain and functional skills:
 
 Technical skills: 
 - Data analysis: Python, R, SAS, SQL (MySQL, PostgreSQL, T-SQL), Julia, MS-Excel,
-- Cloud-based data lake and warehouse (Dremio, Snowflake, MS-Azure),
+- Cloud-based data lake and warehouse (Dremio, Greenplum, Snowflake, MS-Azure),
 - Data visualisation (Google Data Studio, Power-BI, Tableau), 
 - Statistical analysis and Machine learning (supervised, unsupervised), Deep learning, Text mining, 
 - Project management: Atlassian (Confluence, JIRA).
@@ -25,4 +25,4 @@ Technical skills:
 - 🔭 Building a text summarisation and sentiment analysis prototype using language models for maritime situational awareness.
 - ⚡ Fun fact: training for Ironman triathlon.
 
-## 🌱 Open to full-time opportunities in analytics and data science in Australia or New Zealand. Feel free to reach out to me via LinkedIn or email Lnbsocialbox@gmail.com
+### 🌱 Open to full-time opportunities in analytics and data science in Australia or New Zealand. Feel free to reach out to me via <a href="https://www.linkedin.com/in/lnbpublicprofile/">LinkedIn</a> or <a href="Lnbsocialbox@gmail.com">E-mail</a>.
