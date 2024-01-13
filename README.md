@@ -1,15 +1,12 @@
 ### Hi there 👋
 
-<!--
-**LNBGitHub/LNBGitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # About-me
 
 I am motivated and accomplished data and analytics professional with expertise in leading advanced analytics and data science (AI/ML) capabilities to deliver business outcomes. My principal goal is to help my teams and clients gain clarity and growth through data-driven insights, data products and solutions.
 
 As a seasoned professional, I have worked across a range of analytics projects in financial services (banking, credit services, insurance, FinTech), consumer goods and public sector. I have leveraged data, and enabled teams and clients to deliver value to their customers and business. I have dual master's degrees in computer science and data science from premier institutions. Additionally, I am a mentor at Data Science for Social Good institute. Feel free to reach out to me.
 
-Skills: 
+# Skills: 
 
 Leadership and management: Agile project management, Cross-functional collaboration, AI/ML governance. 
 
