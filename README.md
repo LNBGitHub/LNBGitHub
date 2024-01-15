@@ -2,7 +2,7 @@
 
 ## About-me
 
-I am motivated and T-shaped professional with expertise in leading advanced analytics and data science (AI/ML) capabilities to deliver business outcomes. My principal goal is to help my teams and clients gain growth through data-driven insights, data products and solutions.
+I am a data guy with expertise in leading advanced analytics and data science (AI/ML) capabilities to deliver business outcomes. My principal goal is to help my teams and clients gain growth through data-driven insights, data products and solutions.
 
 As a seasoned professional, I have worked across a range of analytics projects in financial services (banking, credit services, insurance, FinTech), consumer goods, and public sector. I have leveraged data, and enabled teams and clients to deliver value to their customers and business. 
 
@@ -25,6 +25,6 @@ Technical skills:
 
 ## Currently busy with: 
 - 🔭 Building a text summarisation and sentiment analysis prototype using language models for maritime situational awareness.
-- ⚡ Fun fact: a fitness enthusiast who enjoys running and cycling.
+- ⚡ Fun fact: learning to make good coffee.
 
 ### 🌱 Open to full-time opportunities in analytics and data science in Australia or New Zealand. Feel free to reach out to me via <a href="https://www.linkedin.com/in/lnbpublicprofile/">LinkedIn</a> or E-mail.
