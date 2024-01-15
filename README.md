@@ -25,6 +25,6 @@ Technical skills:
 
 ## Currently busy with: 
 - 🔭 Building a text summarisation and sentiment analysis prototype using language models for maritime situational awareness.
-- ⚡ Fun fact: training for Ironman triathlon.
+- ⚡ Fun fact: a fitness enthusiast who enjoys running and cycling.
 
 ### 🌱 Open to full-time opportunities in analytics and data science in Australia or New Zealand. Feel free to reach out to me via <a href="https://www.linkedin.com/in/lnbpublicprofile/">LinkedIn</a> or E-mail.
