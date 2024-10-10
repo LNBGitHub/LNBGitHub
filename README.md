@@ -2,29 +2,19 @@
 
 ## About-me
 
-I am a data guy with expertise in leading advanced analytics and data science (AI/ML) capabilities to deliver business outcomes. My principal goal is to help my teams and clients gain growth through data-driven insights, data products and solutions.
+Laks is an experienced data analyst and scientist with +8 years of expertise in turning data into meaningful insights and products. As a seasoned professional, he has worked across a range of analytics projects in defence and public sector, financial services, and consumer goods services. He has leveraged data, and enabled teams and stakeholders drive decisions.
 
-As a seasoned professional, I have worked across a range of analytics projects in financial services (banking, credit services, insurance, FinTech), consumer goods, and public sector. I have leveraged data, and enabled teams and clients to deliver value to their customers and business. 
-
-I hold dual master's degrees in computer science and data science (alumnus of Manipal University | Uni. of Auckland | Uni. of Otago). Additionally, I am a mentor at Data Science for Social Good institute. 
+Laks has dual master’s degrees in computer science, statistics, and data science from universities in India and New Zealand. In addition, he is an adjunct faculty of data science and AI at AUT and Institute of Data. He has won industry awards for value creation and excellence.
 
 ## Skills: 
 
-Leadership and management: Agile project management, Cross-functional collaboration, AI/ML governance. 
+Functional expertise: Business analytics, Time-series analysis, GIS, Forecasting and machine learning, Generative AI and LLMs.
 
-Domain and functional skills: 
-- Financial services, risk and compliance analytics,
-- Customer and marketing analytics (CLTV, churn, campaign, NPS, propensity modelling, segmentation).
+Technical expertise: 
+Data analysis (Python, R, SQL, MS-Excel), Data visualisation (Power-BI, Tableau, Kepler GL), AI-ML (supervised, unsupervised, text analytics and LLM), Cloud (Snowflake, Azure, AWS), Atlassian (Confluence, JIRA).
 
-Technical skills: 
-- Data analysis: Python, R, SAS, SQL (MySQL, PostgreSQL, T-SQL), Julia, MS-Excel,
-- Cloud-based data lake and warehouse (Dremio, Greenplum, Snowflake, MS-Azure),
-- Data visualisation (Google Data Studio, Power-BI, Tableau), 
-- Statistical analysis and Machine learning (supervised, unsupervised), Deep learning, Text mining, 
-- Project management: Atlassian (Confluence, JIRA).
+Soft skills:
+Agile methods, Requirements analysis, Planning, Collaboration, and Communication.
 
-## Currently busy with: 
-- 🔭 Building a text summarisation and sentiment analysis prototype using language models for maritime situational awareness.
-- ⚡ Fun fact: learning to make good coffee.
 
 ### 🌱 Open to full-time opportunities in analytics and data science in Australia or New Zealand. Feel free to reach out to me via <a href="https://www.linkedin.com/in/lnbpublicprofile/">LinkedIn</a> or E-mail.
