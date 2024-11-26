@@ -13,8 +13,5 @@ Functional expertise: Business analytics, Time-series analysis, GIS, Forecasting
 Technical expertise: 
 Data analysis (Python, R, SQL, MS-Excel), Data visualisation (Power-BI, Tableau, Kepler GL), AI-ML (supervised, unsupervised, text analytics and LLM), Cloud (Snowflake, Azure, AWS), Atlassian (Confluence, JIRA).
 
-Soft skills:
-Agile methods, Requirements analysis, Planning, Collaboration, and Communication.
 
 
-### 🌱 Open to full-time opportunities in analytics and data science in Australia or New Zealand. Feel free to reach out to me via <a href="https://www.linkedin.com/in/lnbpublicprofile/">LinkedIn</a> or E-mail.
