@@ -1,5 +1,3 @@
-# Hi there 👋
-
 ## About-me
 
 Researcher interested in artificial intelligence and machine learning focused on healthcare.
